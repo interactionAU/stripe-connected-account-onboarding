@@ -18,22 +18,4 @@ bundle install
 ruby server.rb -o 0.0.0.0
 ~~~
 
-3. Build the client app
-
-~~~
-npm install
-~~~
-
-4. Run the client app
-
-~~~
-npm start
-~~~
-
-5. Go to [http://localhost:4242](http://localhost:4242)
-
-6. Rebuld the using parcel.
-
-~~~
-npm run build
-~~~
+3. Go to [http://localhost:4242](http://localhost:4242)
