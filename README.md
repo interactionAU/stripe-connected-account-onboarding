@@ -4,6 +4,12 @@ Build a Connect integration which creates an account and onboards it to your pla
 
 Here are some basic scripts you can use to build and run the application.
 
+You also need a .env file with the following variables:
+
+```
+STRIPE_SECRET_KEY=sk_test_...
+```
+
 ## Run the sample
 
 1. Build the server
